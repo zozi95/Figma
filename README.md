@@ -1,1 +1,2 @@
 # Figma
+SVG PNG File
